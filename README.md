@@ -1,2 +1,2 @@
 Mvc Projem
-![Anasayfa](anasayfa.png)
+![Anasayfa](Anasayfa.PNG)
